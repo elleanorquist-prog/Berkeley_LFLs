@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "geocoded_by_geoapify-12_6_2025, 6_37_04 PM",
-"features": [
-{ "type": "Feature", "properties": { "original_address": "1611 Ward St, Berkeley, CA 94703", "lat": 37.85838125, "lon": -122.27730563050307, "formatted": "1611 Ward Street, Berkeley, CA 94703, United States of America", "housenumber": "1611", "street": "Ward Street", "postcode": "94703", "district": "South Berkeley", "city": "Berkeley", "county": "Alameda County", "state": "California", "state_code": "CA", "country": "United States", "country_code": "us", "confidence": "1", "confidence_city_level": "1", "confidence_street_level": "1", "confidence_building_level": "1", "attribution": "© OpenStreetMap contributors", "attribution_license": "Open Database License", "attribution_url": "https://www.openstreetmap.org/copyright" }, "geometry": { "type": "Point", "coordinates": [ -122.2773056, 37.8583813 ] } }
-]
-}
